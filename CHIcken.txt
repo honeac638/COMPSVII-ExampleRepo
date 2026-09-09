@@ -1,2 +1,6 @@
 THIS isisisisisisis epic 
+<<<<<<< HEAD
 ok second testadad
+=======
+awawdawd
+>>>>>>> dd57a1a908480aa9f80c72b88a147201a176def5
